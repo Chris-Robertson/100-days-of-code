@@ -15,3 +15,14 @@
 
 **Link(s) to work**
 1.
+
+### Day 3: January 30, Monday
+
+**Today's Progress**: Continued working through the CSS course on Codecademy.
+
+**Thoughts** It's actually great brushing up on all this CSS. I would've been floundering quite a bit without this revision.
+
+One thing I have noticed is that I need to practice touch typing specifically for programmers. A lot of my symbol typing leaves a lot to be desired. The MacBook keyboard doesn't help either. I mean, it's great for a laptop, but I'm so used to mechanical keyboards now.
+
+**Link(s) to work**
+1.
