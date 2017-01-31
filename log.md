@@ -26,3 +26,14 @@ One thing I have noticed is that I need to practice touch typing specifically fo
 
 **Link(s) to work**
 1.
+
+### Day 4: January 31, Monday
+
+**Today's Progress**: Finished the Codecademy HTML and CSS basics. Started on the Code School Ruby course. Also had a quick look at Wes Bos's JavaScript30 and Command Line videos. Started customising zsh.
+
+**Thoughts** I'm jumping around a little bit, but I think it's probably a good idea to get familiar with the basics of a few concepts. I would like to get my terminal set up and work on my dotfiles repo before the course starts.
+
+I should be able to easily finish the "Try Ruby" course and maybe get through a decent amount of the FreeCodeCamp JavaScript course before the bootcamp starts.
+
+**Link(s) to work**
+1.
