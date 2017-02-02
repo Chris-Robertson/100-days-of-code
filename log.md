@@ -46,3 +46,9 @@ I should be able to easily finish the "Try Ruby" course and maybe get through a 
 
 **Link(s) to work**
 1.
+
+### Day 6: February 2, Thursday
+
+** Today's Progress**: Played around with the terminal and vim. I added syntax higlighting plugin for zsh. Looks cool. Then I mucked around with vim for ages, adding plugins and a colour scheme.
+
+**Thoughts**: I didn't exactly do any coding, but I'm going to count it. I want to focus on learning vim, and now it should be setup to rival Atom in terms of syntax hilighting stc. I might have to play around with the plugins though.
