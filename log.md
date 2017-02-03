@@ -52,3 +52,12 @@ I should be able to easily finish the "Try Ruby" course and maybe get through a 
 ** Today's Progress**: Played around with the terminal and vim. I added syntax higlighting plugin for zsh. Looks cool. Then I mucked around with vim for ages, adding plugins and a colour scheme.
 
 **Thoughts**: I didn't exactly do any coding, but I'm going to count it. I want to focus on learning vim, and now it should be setup to rival Atom in terms of syntax hilighting stc. I might have to play around with the plugins though.
+
+### Day 7: February 3, Friday
+
+** Today's Progress**: Played around in Vim a bit more. Got syntax hilighting working and a few plugins. Getting the hang of the movement and editing shortcuts, but I can tell it's going to take ages to master this program. I also worked through a bit more of the Code School Try Ruby course. 
+
+**Thoughts**: I need to keep working on Vim, cold-turkey. There is obviously a huge learning curve, but I'm already progressing quite a bit.
+
+Ruby seems cool but it's hard to get a good idea about it. The Code School course is a little too dumbed down. I think I would benefit from a guide like "Ruby for programmers" or something. I just want to know what, for example, a Python function looks like in Ruby.
+
