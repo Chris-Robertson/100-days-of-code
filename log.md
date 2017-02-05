@@ -1,3 +1,12 @@
+### Day x: Month xx, Day
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**
+1.
+
 ### Day 1: January 28, Saturday
 
 **Today's Progress**: Started 100 Days Of Code project. I'm working through the prework for the Coderfactory bootcamp. Practiced basic HTML on Codecademy.
@@ -49,13 +58,13 @@ I should be able to easily finish the "Try Ruby" course and maybe get through a 
 
 ### Day 6: February 2, Thursday
 
-** Today's Progress**: Played around with the terminal and vim. I added syntax higlighting plugin for zsh. Looks cool. Then I mucked around with vim for ages, adding plugins and a colour scheme.
+**Today's Progress**: Played around with the terminal and vim. I added syntax higlighting plugin for zsh. Looks cool. Then I mucked around with vim for ages, adding plugins and a colour scheme.
 
 **Thoughts**: I didn't exactly do any coding, but I'm going to count it. I want to focus on learning vim, and now it should be setup to rival Atom in terms of syntax hilighting stc. I might have to play around with the plugins though.
 
 ### Day 7: February 3, Friday
 
-** Today's Progress**: Played around in Vim a bit more. Got syntax hilighting working and a few plugins. Getting the hang of the movement and editing shortcuts, but I can tell it's going to take ages to master this program. I also worked through a bit more of the Code School Try Ruby course. 
+**Today's Progress**: Played around in Vim a bit more. Got syntax hilighting working and a few plugins. Getting the hang of the movement and editing shortcuts, but I can tell it's going to take ages to master this program. I also worked through a bit more of the Code School Try Ruby course. 
 
 **Thoughts**: I need to keep working on Vim, cold-turkey. There is obviously a huge learning curve, but I'm already progressing quite a bit.
 
@@ -63,6 +72,14 @@ Ruby seems cool but it's hard to get a good idea about it. The Code School cours
 
 ### Day 8: February 4, Saturday 
 
-** Today's Progress**: Finished the Code School Ruby course. Started working through FreeCodeCamp JavaScript content.
+**Today's Progress**: Finished the Code School Ruby course. Started working through FreeCodeCamp JavaScript content.
 
 **Thoughts**: Now that I've completed all the set pre-work for coderfactory I can start brushing up on other things. I think if I can get therough the starter JS stuff on FCC I'll be pretty happy. Also, my vim skills are improving daily! 
+
+### Day 9: January 5, Sunday
+
+**Today's Progress**: Finished the Basic JavaScript challenge on FreeCodeCamp. 
+
+**Thoughts**: I'm feeling pretty prepared for the bootcamp starting in a week. I'm glad I made it through the JS stuff. It was a good refresher. I really do like JavaScript. It feels similar to Python 3.
+
+I've noticed that now I am starting to learn Vim, when I have to use an different editor it feels so slow and cumbersom. The inline editor on FreeCodeCamp, for example.
