@@ -61,3 +61,8 @@ I should be able to easily finish the "Try Ruby" course and maybe get through a 
 
 Ruby seems cool but it's hard to get a good idea about it. The Code School course is a little too dumbed down. I think I would benefit from a guide like "Ruby for programmers" or something. I just want to know what, for example, a Python function looks like in Ruby.
 
+### Day 8: February 4, Saturday 
+
+** Today's Progress**: Finished the Code School Ruby course. Started working through FreeCodeCamp JavaScript content.
+
+**Thoughts**: Now that I've completed all the set pre-work for coderfactory I can start brushing up on other things. I think if I can get therough the starter JS stuff on FCC I'll be pretty happy. Also, my vim skills are improving daily! 
