@@ -83,3 +83,23 @@ Ruby seems cool but it's hard to get a good idea about it. The Code School cours
 **Thoughts**: I'm feeling pretty prepared for the bootcamp starting in a week. I'm glad I made it through the JS stuff. It was a good refresher. I really do like JavaScript. It feels similar to Python 3.
 
 I've noticed that now I am starting to learn Vim, when I have to use an different editor it feels so slow and cumbersom. The inline editor on FreeCodeCamp, for example.
+
+### Day 10: January 6, Monday
+
+**Today's Progress**: It was a slow day. After work I had to make a map and didn't have much time for coding. I checked the curriculum for the bootcampand it looks like they use Sublime Text. I got the Wes Bos Sublime Power User book and started looking at it.
+
+**Thoughts**: I think I would rather use Vim, but I also recognise that it's important to try out all the editors, so I'll give Sublime a good crack. It looks like you can use Vim style controls with it, which would be good.
+
+**Link(s) to work**
+1.
+
+### Day 11: January 7, Tuesday
+
+**Today's Progress**: Started working through Zed Shaw's "Learn Ruby The Hard Way". Played around with Sublime a bit more (but I'm still using Vim to type this...).
+
+**Thoughts**: LRTHW starts pretty slow, it's designed to be usable by complete beginners, but I'm moving through it pretty fast and I think Zed's little insights into things are great.
+
+**Link(s) to work**
+1.
+
+
