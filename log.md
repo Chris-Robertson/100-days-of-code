@@ -102,4 +102,22 @@ I've noticed that now I am starting to learn Vim, when I have to use an differen
 **Link(s) to work**
 1.
 
+### Day 12: January 8, Wednesday
+
+**Today's Progress**: Worked though a little bit of Ruby the Hard Way, but mostly played with customising Sublime Text.
+
+**Thoughts**: Slow day. I'm not sure if I'll like Sublime more than Vim, but I'll keep working on it.
+
+**Link(s) to work**
+1.
+
+### Day 13: January 9, Thursday
+
+**Today's Progress**: Just played around more with Sublime Text, no real coding.
+
+**Thoughts**: I'll smash through a lot of Ruby the Hard Way over the weekend in preparation for the bootcamp starting on Monday.
+
+**Link(s) to work**
+1.
+
 
